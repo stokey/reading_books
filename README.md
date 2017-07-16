@@ -7,7 +7,7 @@
 
 #### 网络
 
-+ [ ] 图解HTTP 
++ [X] 图解HTTP——`2017年6月20日`
 + [ ] 图解TCP/IP
 
 #### iOS
@@ -21,6 +21,7 @@
 + [ ] Effective Java
 + [ ] 数据结构与算法分析 Java语言描述
 + [ ] Java并发编程艺术
++ [ ] 深入理解Java虚拟机
 
 #### Android
 
